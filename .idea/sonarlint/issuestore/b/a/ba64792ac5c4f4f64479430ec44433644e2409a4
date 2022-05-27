@@ -1,0 +1,41 @@
+
+€
+java:S1104"eMake handleCreateReimbursement a static final constant or non-public and provide accessors if needed.(­©ÜÓıÿÿÿÿ
+{
+java:S1104("eMake handleEmployeeViewPending a static final constant or non-public and provide accessors if needed.(¬¯ÑÜ
+|
+java:S11047"fMake handleEmployeeViewResolved a static final constant or non-public and provide accessors if needed.(½Şë¨
+v
+java:S1104E"`Make handleManagerApprove a static final constant or non-public and provide accessors if needed.(üÖ´š
+x
+java:S1104Z"]Make handleManagerDeny a static final constant or non-public and provide accessors if needed.(Í‡¨ûÿÿÿÿ
+y
+java:S1104p"cMake handleManagerAllPending a static final constant or non-public and provide accessors if needed.(«íƒÁ
+€
+java:S1104ƒ"dMake handleManagerAllResolved a static final constant or non-public and provide accessors if needed.(îª½Ôıÿÿÿÿ
+
+java:S1104•"cMake handleManagerByEmployee a static final constant or non-public and provide accessors if needed.(’¶¹¨üÿÿÿÿ
+L
+java:S1611"1Remove the parentheses around the "ctx" parameter(­©ÜÓıÿÿÿÿ
+G
+java:S1611("1Remove the parentheses around the "ctx" parameter(¬¯ÑÜ
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(íçı¸øÿÿÿÿ
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(Âİ”©ıÿÿÿÿ
+G
+java:S16117"1Remove the parentheses around the "ctx" parameter(½Şë¨
+Q	java:S1258"<This block of commented-out lines of code should be removed.(¨•ÕĞ
+G
+java:S1611E"1Remove the parentheses around the "ctx" parameter(üÖ´š
+N	java:S106M"9Replace this use of System.out or System.err by a logger.(Âæ“ú
+L
+java:S1611Z"1Remove the parentheses around the "ctx" parameter(Í‡¨ûÿÿÿÿ
+N	java:S106b"9Replace this use of System.out or System.err by a logger.(Âæ“ú
+G
+java:S1611p"1Remove the parentheses around the "ctx" parameter(«íƒÁ
+N	java:S106x"9Replace this use of System.out or System.err by a logger.(Âæ“ú
+M
+java:S1611ƒ"1Remove the parentheses around the "ctx" parameter(îª½Ôıÿÿÿÿ
+O	java:S106‹"9Replace this use of System.out or System.err by a logger.(Âæ“ú
+M
+java:S1611•"1Remove the parentheses around the "ctx" parameter(’¶¹¨üÿÿÿÿ
+O	java:S106"9Replace this use of System.out or System.err by a logger.(Âæ“ú

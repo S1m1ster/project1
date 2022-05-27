@@ -1,0 +1,7 @@
+
+p
+java:S1104"SMake type_id a static final constant or non-public and provide accessors if needed.(€£ì8ÄÔİÔ0
+o
+java:S1104"RMake r_type a static final constant or non-public and provide accessors if needed.(ÑÕ¼Ò8ÄÔİÔ0
+n	java:S116"RRename this field "type_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€£ì8ÅÔİÔ0
+m	java:S116"QRename this field "r_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑÕ¼Ò8ÅÔİÔ0
