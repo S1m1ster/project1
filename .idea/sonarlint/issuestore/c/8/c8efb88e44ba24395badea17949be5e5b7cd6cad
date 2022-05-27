@@ -1,0 +1,32 @@
+
+t
+java:S1192"^Define a constant instead of duplicating this literal "Access-Control-Expose-Headers" 3 times.(è£Ëø
+t
+java:S1104"_Make handleCreateAccount a static final constant or non-public and provide accessors if needed.(ÇÍæ-
+m
+java:S1104"WMake handleLogin a static final constant or non-public and provide accessors if needed.(Öª‰
+s
+java:S1104*"XMake handleLogout a static final constant or non-public and provide accessors if needed.(Ö€ãøÿÿÿÿ
+s
+java:S1104/"]Make handleViewAccount a static final constant or non-public and provide accessors if needed.(Ø­ù›
+r
+java:S1104;"\Make handleUpdateUser a static final constant or non-public and provide accessors if needed.(¢ÓäŒ
+
+java:S1104G"fMake handleViewAllUserByManager a static final constant or non-public and provide accessors if needed.(Ì´ÖÅùÿÿÿÿ
+r
+java:S1104Y"\Make handleDeleteUser a static final constant or non-public and provide accessors if needed.(ÌØ†¿
+F
+java:S1611"1Remove the parentheses around the "ctx" parameter(ÇÍæ-
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¨õáì
+G
+java:S1611"1Remove the parentheses around the "ctx" parameter(Öª‰
+L
+java:S1611*"1Remove the parentheses around the "ctx" parameter(Ö€ãøÿÿÿÿ
+G
+java:S1611/"1Remove the parentheses around the "ctx" parameter(Ø­ù›
+G
+java:S1611;"1Remove the parentheses around the "ctx" parameter(¢ÓäŒ
+L
+java:S1611G"1Remove the parentheses around the "ctx" parameter(Ì´ÖÅùÿÿÿÿ
+G
+java:S1611Y"1Remove the parentheses around the "ctx" parameter(ÌØ†¿
