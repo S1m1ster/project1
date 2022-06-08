@@ -11,7 +11,7 @@ The Expense Reimbursement System (ERS) will manage the process of reimbursing em
 * Used JUnit for code coverage in service methods
 ## Features
 
-*** As an employee I can:
+As an employee I can:
 * Login
 * Logout
 * View employee home page
@@ -21,7 +21,7 @@ The Expense Reimbursement System (ERS) will manage the process of reimbursing em
 * View my account information
 * Update account information
 
-*** As a manager I can:
+As a manager I can:
 * Login
 * Logout
 * View the manager home page
